@@ -4,6 +4,8 @@ My particular interest in web development started when I was 9 years old. Thanks
 
 Fast forward to today and now it has become something for me to earn money rather than a hobby. Since I started as a hobby in my childhood, I do this job for fun.
 
+![](https://komarev.com/ghpvc/?username=yilmazev&style=for-the-badge)
+
 ### IDE:
 
 <p>
