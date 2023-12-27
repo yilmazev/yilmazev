@@ -1,8 +1,10 @@
-### Hi there, I'm [Yilmaz Ev](https://yilmazev.github.io) 👋
+### Merhaba, ben [Yılmaz Ev](https://yilmazev.github.io) 👋🏻
 
-My particular interest in web development started when I was 9 years old. Thanks to WordPress-like websites, I create and use simple CMSs, but over time I wanted to learn the necessary languages ​​to create websites. I learned HTML and CSS first.
+Front-end alanında, dokuz yaşından bu yana kazandığım geniş tecrübe ve kendimi sürekli geliştiren bir tutkum var. Modern ve kullanıcı odaklı web projelerini, NextJS, Typescript ve Tailwind gibi ileri teknolojilerle geliştirmekteyim. React, Styled Components, SCSS ve Bootstrap gibi çeşitli araçlarla pratik deneyimlerim bulunuyor. Eğitimimden ziyade, kişisel araştırmalarım ve gerçek projelerde elde ettiğim bilgi birikimiyle, yenilikçi ve yaratıcı biri olarak değer katmayı hedefliyorum.
 
-Fast forward to today and now it has become something for me to earn money rather than a hobby. Since I started as a hobby in my childhood, I do this job for fun.
+
+İletişime geç 👉🏻 [yilmaz.ev@outlook.com](mailto:yilmaz.ev@outlook.com)
+
 
 ![](https://komarev.com/ghpvc/?username=yilmazev&style=for-the-badge)
 
@@ -10,20 +12,19 @@ Fast forward to today and now it has become something for me to earn money rathe
 
 <p>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">
-    <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB">
 </p>
 
 
-### Basic:
+### Dil:
 
 <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-### Javascript Frameworks:
+### Framework:
 
 <p>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -31,7 +32,7 @@ Fast forward to today and now it has become something for me to earn money rathe
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
-### CSS Frameworks:
+### Stil:
 
 <p>
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
@@ -40,9 +41,8 @@ Fast forward to today and now it has become something for me to earn money rathe
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </p>
 
-### Others:
+### Versiyon kontrol:
 
 <p>
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
