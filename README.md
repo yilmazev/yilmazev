@@ -1,9 +1,9 @@
-### Merhaba, ben [Yılmaz Ev](https://yilmazev.github.io) 👋🏻
+### Hello, I'm [Yılmaz Ev](https://yilmazev.github.io) 👋🏻
 
-Front-end alanında, dokuz yaşından bu yana kazandığım geniş tecrübe ve kendimi sürekli geliştiren bir tutkum var. Modern ve kullanıcı odaklı web projelerini, NextJS, Typescript ve Tailwind gibi ileri teknolojilerle geliştirmekteyim. React, Styled Components, SCSS ve Bootstrap gibi çeşitli araçlarla pratik deneyimlerim bulunuyor. Eğitimimden ziyade, kişisel araştırmalarım ve gerçek projelerde elde ettiğim bilgi birikimiyle, yenilikçi ve yaratıcı biri olarak değer katmayı hedefliyorum.
+Since the age of nine, I have extensive experience in front-end and a passion for continuous development. I develop modern and user-oriented web projects with advanced technologies such as NextJS, Typescript and Tailwind. I have practical experience with various tools such as React, Styled Components, SCSS and Bootstrap. I aim to add value as an innovative and creative person with the knowledge I have gained through personal research and real projects rather than my education.
 
 
-İletişime geç 👉🏻 [yilmaz.ev@outlook.com](mailto:yilmaz.ev@outlook.com)
+Get in touch 👉🏻 [yilmaz.ev@outlook.com](mailto:yilmaz.ev@outlook.com)
 
 
 ![](https://komarev.com/ghpvc/?username=yilmazev&style=for-the-badge)
@@ -15,7 +15,7 @@ Front-end alanında, dokuz yaşından bu yana kazandığım geniş tecrübe ve k
 </p>
 
 
-### Dil:
+### Language:
 
 <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,7 +32,7 @@ Front-end alanında, dokuz yaşından bu yana kazandığım geniş tecrübe ve k
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
-### Stil:
+### Style:
 
 <p>
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
@@ -41,7 +41,7 @@ Front-end alanında, dokuz yaşından bu yana kazandığım geniş tecrübe ve k
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </p>
 
-### Versiyon kontrol:
+### Version control:
 
 <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
